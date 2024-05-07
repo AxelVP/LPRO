@@ -1,9 +1,10 @@
 # Proyecto 
 Sistema de comunicación y localización en interiores a través de una red bluetooth mesh.
 El sistema se compone de 3 dispositivos:
-    1. Servidor.
-    2. Dispositivo de avisos que va en cada sala y por donde se reproducirán los mensajes de los usuarios.
-    3. Dispositivo portable (Wearable) que llevaran consigo los usuarios y que permite la grabación de audios que serán enviados al usuario destino.
+
+1. Servidor.
+2. Dispositivo de avisos que va en cada sala y por donde se reproducirán los mensajes de los usuarios.
+3. Dispositivo portable (Wearable) que llevaran consigo los usuarios y que permite la grabación de audios que serán enviados al usuario destino.
 
 # Como programar una placa nRF
 
